@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # Database
-gem 'sqlite3', '~>1.4'
+gem 'sqlite3'
 
 # Testing
 gem 'rspec'
